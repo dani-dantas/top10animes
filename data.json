@@ -1,0 +1,72 @@
+[
+  {
+    "video": "assets/dbz.mp4",
+    "nome": "Dragon Ball Z",
+    "descricao": "Dragon Ball Z continua as aventuras de Son Goku em sua vida adulta, enquanto ele e seus companheiros defendem a Terra contra vilões, incluindo alienígenas (Vegeta, Freeza), androides (Cell) e criaturas mágicas (Majin Boo).",
+    "criador": "Akira Toriyama",
+    "data_lancamento": "1989-04-26"
+  },
+  {
+    "video": "assets/naruto.mp4",
+    "nome": "Naruto",
+    "descricao": "Naruto Uzumaki, um jovem ninja que constantemente procura por reconhecimento e sonha em se tornar Hokage, o ninja líder de sua vila.",
+    "criador": "Masashi Kishimoto",
+    "data_lancamento": "2002-10-03"
+  },
+  {
+    "video": "assets/onepiece.mp4",
+    "nome": "One Piece",
+    "descricao": "A série foca em Monkey D. Luffy, um jovem que, inspirado por seu ídolo de infância e poderoso pirata Shanks, o Ruivo, sai em uma jornada do mar East Blue para encontrar o tesouro mítico, o One Piece, e proclamar-se o Rei dos Piratas.",
+    "criador": "Eiichiro Oda",
+    "data_lancamento": "1999-10-20"
+  },
+  {
+    "video": "assets/attackontitan.mp4",
+    "nome": "Attack on Titan",
+    "descricao": "A história segue Eren Yeager, um adolescente que jura exterminar os Titãs depois que eles causam a destruição de sua cidade natal e a morte de sua mãe.",
+    "criador": "Hajime Isayama",
+    "data_lancamento": "2013-04-07"
+  },
+  {
+    "video": "assets/deathnote.mp4",
+    "nome": "Death Note",
+    "descricao": "A história centra-se em Light Yagami, um estudante do ensino médio que descobre um caderno sobrenatural chamado Death Note, no qual pode matar pessoas se os nomes forem escritos nele.",
+    "criador": "Tsugumi Ohba",
+    "data_lancamento": "2006-10-04"
+  },
+  {
+    "video": "assets/fullmetal.mp4",
+    "nome": "Fullmetal Alchemist: Brotherhood",
+    "descricao": "A série segue a história de dois irmãos alquimistas, Edward e Alphonse Elric, que estão procurando a pedra filosofal para restaurar seus corpos depois de uma tentativa fracassada de trazer sua mãe de volta à vida usando alquimia.",
+    "criador": "Hiromu Arakawa",
+    "data_lancamento": "2009-04-05"
+  },
+  {
+    "video": "assets/pokemon.mp4",
+    "nome": "Pokémon",
+    "descricao": "A série detalha as aventuras de Ash Ketchum, um garoto que sonha em se tornar um Mestre Pokémon, e seu parceiro Pikachu, viajando por várias regiões, fazendo novos amigos e competindo em torneios.",
+    "criador": "Satoshi Tajiri",
+    "data_lancamento": "1997-04-01"
+  },
+  {
+    "video": "assets/evangelion.mp4",
+    "nome": "Neon Genesis Evangelion",
+    "descricao": "A série é ambientada em 2015, quinze anos após um cataclismo mundial, e segue Shinji Ikari, um adolescente que é recrutado por seu pai para a misteriosa organização Nerv para pilotar um mecha biomecânico gigante chamado Evangelion para lutar contra seres conhecidos como Anjos.",
+    "criador": "Hideaki Anno",
+    "data_lancamento": "1995-10-04"
+  },
+  {
+    "video": "assets/kimetsu.mp4",
+    "nome": "Demon Slayer: Kimetsu no Yaiba",
+    "descricao": "A história acontece em torno de Tanjiro Kamado, que vive uma viagem em busca da salvação da irmã Nezuko, que foi atacada por demônios.",
+    "criador": "Koyoharu Gotouge",
+    "data_lancamento": "2019-04-06"
+  },
+  {
+    "video": "assets/cowboy.mp4",
+    "nome": "Cowboy Bebop",
+    "descricao": "Produzida e dirigida por Shinichiro Watanabe, a série se passa no ano de 2071 e é centrada na vida de uma tripulação de caçadores de recompensas espaciais.",
+    "criador": "Hajime Yatate",
+    "data_lancamento": "1998-04-03"
+  }
+]
